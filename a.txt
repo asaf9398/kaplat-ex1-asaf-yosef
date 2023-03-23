@@ -1,1 +1,2 @@
 Hi this is my first Commit
+adding some things to this file
